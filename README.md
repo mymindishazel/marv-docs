@@ -1,6 +1,10 @@
 # Marv is an incredibly easy to use music bot for [Discord](http://discordapp.com)
 
-Some stuff about the support server here
+> How do I get started with Marv?
+Just click [this link here](https://discordapp.com/oauth2/authorize?scope=bot&client_id=234395307759108106&permissions=3525697), select your server, and press authorize!
+
+> How do I use Marv?
+Check down below for a list of all the commands. If you're still having trouble, hop on our [support server](https://discord.gg/WmDyx7C) and we'll help you out :)
 
 # Commands
 
