@@ -4,7 +4,7 @@
 
 > How do I get started with Marv?
 
-Just click [**this link**](https://discordapp.com/oauth2/authorize?scope=bot&client_id=234395307759108106&permissions=3525697), select your server, and press authorize! Then, click here for a list of the [commands](/commands) you can use :D
+Just click [**this link**](https://discordapp.com/oauth2/authorize?scope=bot&client_id=234395307759108106&permissions=3525697), select your server, and press authorize! Then, click here for a list of the **[commands](/marv/commands)** you can use :D
 
 <br>
 
