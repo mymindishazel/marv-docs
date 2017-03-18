@@ -1,6 +1,14 @@
 ### Marv is an incredibly easy to use music bot for [Discord](http://discordapp.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Blah blah blah.
+
+Blah blah?
+ 
+Blah!
+
+### Commands
+
+## Adding to the queue
 
 ```markdown
 Syntax highlighted code block
