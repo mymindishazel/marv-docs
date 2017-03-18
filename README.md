@@ -4,7 +4,7 @@
 
 Just click [this link](https://discordapp.com/oauth2/authorize?scope=bot&client_id=234395307759108106&permissions=3525697), select your server, and press authorize!
 
-
+\n
 
 > How do I use Marv?
 
