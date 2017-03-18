@@ -2,7 +2,7 @@
 
 > How do I get started with Marv?
 
-Just click [this link here](https://discordapp.com/oauth2/authorize?scope=bot&client_id=234395307759108106&permissions=3525697), select your server, and press authorize!
+Just click [this link](https://discordapp.com/oauth2/authorize?scope=bot&client_id=234395307759108106&permissions=3525697), select your server, and press authorize!
 
 > How do I use Marv?
 
