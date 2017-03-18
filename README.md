@@ -10,6 +10,8 @@ Just click [**this link**](https://discordapp.com/oauth2/authorize?scope=bot&cli
 
 Check down below for a list of all the commands. If you're still having trouble, hop on our [**support server**](https://discord.gg/WmDyx7C) and we'll help you out :)
 
+<br>
+
 # Commands
 
 **Note:** Most command parts can be shortened to one letter. For example, `-play monstercat` can be shortened to `-p monstercat`
