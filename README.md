@@ -1,4 +1,4 @@
-## Marv is an incredibly easy to use music bot for [Discord](http://discordapp.com)
+# Marv is an incredibly easy to use music bot for [Discord](http://discordapp.com)
 
 Blah blah blah.
 
@@ -6,7 +6,7 @@ Blah blah?
  
 Blah!
 
-### Commands
+## Commands
 
 **Note:** Most command parts can be shortened to one letter. For example, `-play` monstercat can be shortened to `-p` monstercat
 
