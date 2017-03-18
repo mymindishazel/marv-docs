@@ -22,7 +22,7 @@ Check down below for a list of all the commands. If you're still having trouble,
 * `-play random` Adds a random song to the queue
 * `-play` If the command call message has audio attachments, it will add them to the queue
 
-**Note:** Every command above can have the word next added before the input. This will queue the song in the position after the current track. For example, `-play choose next [link/search term]`
+**Note:** Every command above can have the word `next` added before the input. This will queue the song in the position after the current track. For example, `-play choose next [link/search term]`
 
 ### Viewing the queue
 
