@@ -4,11 +4,11 @@
 
 ### Adding to the queue
 
-* * **`-play [link/search term]`** Adds the song or playlist to the queue. If the input is a search term, it will automatically choose the first result
-* `-play choose [search term]` Prompts you to choose which search results you want to queue if you input a search
-* `-play shuffle [playlist]` Automatically shuffles the playlist before adding it to the queue if you input a playlist
-* `-play random` Adds a random song to the queue
-* `-play` If the command call message has audio attachments, it will add them to the queue
+* **`-play [link/search term]`** Adds the song or playlist to the queue. If the input is a search term, it will automatically choose the first result
+* **`-play choose [search term]`** Prompts you to choose which search results you want to queue if you input a search
+* **`-play shuffle [playlist]`** Automatically shuffles the playlist before adding it to the queue if you input a playlist
+* **`-play random`** Adds a random song to the queue
+* **`-play`** If the command call message has audio attachments, it will add them to the queue
 
 **Note:** Every command above can have the word `next` added before the input. This will queue the song in the position after the current track. For example, `-play choose next [link/search term]`
 
