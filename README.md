@@ -1,10 +1,6 @@
 # Marv is an incredibly easy to use music bot for [Discord](http://discordapp.com)
 
-Blah blah blah.
-
-Blah blah?
- 
-Blah!
+Some stuff about the support server here
 
 ## Commands
 
