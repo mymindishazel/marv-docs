@@ -1,4 +1,4 @@
-# Marv is an incredibly easy to use music bot for [Discord](http://discordapp.com)
+# An incredibly easy to use music bot for [Discord](http://discordapp.com)
 
 > How do I get started with Marv?
 
