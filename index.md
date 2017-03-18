@@ -1,4 +1,5 @@
-<link rel="shortcut icon" type="image/png" href="favicon.png">
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+<title>Test</title>
 
 # An incredibly easy to use music bot for [Discord](http://discordapp.com)
 
