@@ -18,30 +18,18 @@ Blah!
 * `-play random` Adds a random song to the queue
 * `-play` If the command call message has audio attachments, it will add them to the queue
 
-```markdown
-Syntax highlighted code block
+**Note:** Every command above can have the word next added before the input. This will queue the song in the position after the current track. For example, `-play choose next [link/search term]`
 
-# Header 1
-## Header 2
-### Header 3
+#### Viewing the queue
 
-- Bulleted
-- List
+* `-queue` Shows the queue
 
-1. Numbered
-2. List
+#### Controlling the queue
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nikolaspikolas/marv-docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* `-next/skip` Skips to the next song
+* `-back` Skips to the previous song
+* `-remove [song index/title]` Removes the track at the specified index/title
+* `-jump [song index/title]` Jumps to the track at the specified index/title
+* `-clear` Clears the queue
+* `-shuffle` Randomizes all the songs after the current one
+* `-move [song index/title], [index]` Moves the specified song to the specified index
