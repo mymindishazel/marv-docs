@@ -5,8 +5,8 @@
 ### Adding to the queue
 
 * `-play [link/search term]` Adds the song or playlist to the queue. If the input is a search term, it will automatically choose the first result
-* `-play choose [search term]` Prompts you to choose which search results you want to queue if you input a search
-* `-play shuffle [playlist]` Automatically shuffles the playlist before adding it to the queue if you input a playlist
+* `-play choose [search term]` If you input a search, it will prompt you to choose which search results you want to queue
+* `-play shuffle [playlist]` If you input a playlist, it will automatically shuffles the playlist before adding it to the queue
 * `-play random` Adds a random song to the queue
 * `-play` If the command call message has audio attachments, it will add them to the queue
 
