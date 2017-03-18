@@ -1,3 +1,7 @@
+---
+title: Marv: Hello!
+---
+
 # An incredibly easy to use music bot for [Discord](http://discordapp.com)
 
 <br>
