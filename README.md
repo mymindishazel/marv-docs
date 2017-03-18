@@ -50,6 +50,8 @@ Check down below for a list of all the commands. If you're still having trouble,
 
 * `-pause` Pauses the song
 * `-resume` Resumes the song
+* `-ff` Fast forwards the song by 10 seconds
+* `-rw` Rewinds the song by 10 seconds
 
 ### Looping
 
