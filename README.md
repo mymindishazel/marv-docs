@@ -29,3 +29,20 @@ Some stuff about the support server here
 * `-clear` Clears the queue
 * `-shuffle` Randomizes all the songs after the current one
 * `-move [song index/title], [index]` Moves the specified song to the specified index
+
+#### Controlling the bot
+
+* `-join` Makes the bot join your voice channel
+* `-leave` Makes the bot leave your voice channel
+* `-stop` Makes the bot stop
+
+#### Controlling the song
+
+* `-pause` Pauses the song
+* `-resume` Resumes the song
+
+#### Looping
+
+* `-loop` Cycles between the three loop settings
+* `-loop track` Loops the current track
+* `-loop queue` Loops the entire queue
