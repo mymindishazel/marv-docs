@@ -1,4 +1,4 @@
-# Marv is an incredibly easy to use music bot for [Discord](http://discordapp.com)
+## Marv is an incredibly easy to use music bot for [Discord](http://discordapp.com)
 
 Blah blah blah.
 
@@ -6,11 +6,11 @@ Blah blah?
  
 Blah!
 
-## Commands
+### Commands
 
 **Note:** Most command parts can be shortened to one letter. For example, `-play` monstercat can be shortened to `-p` monstercat
 
-### Adding to the queue
+#### Adding to the queue
 
 `-play [link/search term]` Adds the song or playlist to the queue. If the input is a search term, it will automatically choose the first result
 `-play choose [search term]` Prompts you to choose which search results you want to queue if you input a search
