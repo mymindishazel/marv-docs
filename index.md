@@ -20,4 +20,4 @@ Hop on our [**support server**](https://discord.gg/WmDyx7C) and we'll help you o
 
 [**Click here!**](/marv/commands)
 
-<br><br><br><br><br>
+<br>
