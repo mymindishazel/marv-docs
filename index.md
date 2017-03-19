@@ -19,5 +19,3 @@ Hop on our [**support server**](https://discord.gg/WmDyx7C) and we'll help you o
 # Commands
 
 [**Click here!**](/marv/commands)
-
-<br>
