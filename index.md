@@ -12,7 +12,7 @@ Just click [**this link**](https://discordapp.com/oauth2/authorize?scope=bot&cli
 
 > Help! I read the command list but I'm still having trouble!
 
-Hop on our [**support server**](https://discord.gg/WmDyx7C) and we'll help you out :^)
+Hop on our [**support server**](https://discord.gg/WmDyx7C) and we'll help you out c:
 
 <br>
 
