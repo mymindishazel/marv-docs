@@ -15,6 +15,10 @@
 ### Viewing the queue
 
 * `-queue` Shows the queue
+* `-song` Shows the current track
+* `-queuer` Shows who queued the current track
+* `-link` Shows a link to the current track
+* `-time` Displays info related to the duration of the song
 
 ### Controlling the queue
 
