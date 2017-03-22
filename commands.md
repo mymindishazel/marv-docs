@@ -42,6 +42,7 @@
 * `-resume` Resumes the song
 * `-ff` Fast forwards the song by 10 seconds
 * `-rw` Rewinds the song by 10 seconds
+
 For more info on fast forward and rewind commands, click [here](/marv/commands/time)
 
 ### Looping
