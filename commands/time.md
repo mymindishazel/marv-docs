@@ -7,5 +7,5 @@
 
 ### Examples
 
-* `-ff 15` Fast forwards 10 seconds
+* `-ff 15` Fast forwards 15 seconds
 * `-rw m 2` Rewinds 2 minutes 
