@@ -1,6 +1,6 @@
 # Commands
 
-**Note 2:** Most command parts can be shortened to one letter. For example, `-play monstercat` can be shortened to `-p monstercat`
+**Note:** Most command parts can be shortened to one letter. For example, `-play monstercat` can be shortened to `-p monstercat`
 
 ### Adding to the queue
 
