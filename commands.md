@@ -29,6 +29,7 @@
 * `-clear` Clears the queue
 * `-shuffle` Randomizes all the songs after the current one
 * `-move [song index/title], [index]` Moves the specified song to the specified index
+* `-controls` **EXPERIMENTAL** Brings up a control set
 
 ### Controlling the bot
 
