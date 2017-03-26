@@ -40,7 +40,7 @@
 ### Controlling the song
 
 * `-pause` Pauses the song
-* `-resume` Resumes the song
+* `-play` Resumes the song
 * `-ff` Fast forwards the song by 10 seconds
 * `-rw` Rewinds the song by 10 seconds
 
