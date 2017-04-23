@@ -14,11 +14,13 @@ If you have any issues using Marv, hop on our the [**support server**](https://d
 
 **Note:** Every command above can have the word `next` added before the input. This will queue the song in the position after the current track. For example, `-play choose next [link/search term]`
 
-### Viewing the queue
+### Viewing info about the queue
 
 * `-queue` Shows the queue
 * `-song` Shows the current track
 * `-queuer` Shows who queued the current track
+* `-lyrics` Shows lyrics for the current song
+* `-lyrics [song]` Shows lyrics for the inputted song
 * `-link` Shows a link to the current track
 * `-time` Displays info related to the duration of the song
 
@@ -27,6 +29,8 @@ If you have any issues using Marv, hop on our the [**support server**](https://d
 * `-next/skip` Skips to the next song
 * `-back` Skips to the previous song
 * `-remove [song index/title]` Removes the track at the specified index/title
+* `-remove last` Removes the last song
+* `-remove current` Removes the current song
 * `-jump [song index/title]` Jumps to the track at the specified index/title
 * `-clear` Clears the queue
 * `-shuffle` Randomizes all the songs after the current one
