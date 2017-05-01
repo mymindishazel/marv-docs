@@ -9,7 +9,7 @@ Marv supports all major platforms, including...
 - Soundcloud <small>(tracks, sets)</small>
 - Twitch
 - Nico Nico
-- Radios
+- Internet radios
 - And much more...
 
 <br>
