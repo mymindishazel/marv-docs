@@ -1,4 +1,4 @@
-# An incredibly easy to use music bot for Discord
+# An incredibly easy to use music bot
 
 <br>
 
