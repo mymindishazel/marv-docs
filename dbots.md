@@ -12,7 +12,7 @@
 
 > Help! I read the command list but I'm still having trouble!
 
-Hop on our **support server** by clicking the `Website` button up above and we'll help you out c:
+Hop on our **support server** by clicking the `Visit Website` button up above and we'll help you out c:
 
 <br>
 
