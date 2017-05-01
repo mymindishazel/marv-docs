@@ -3,8 +3,13 @@
 > What platforms does Marv support?
 
 Marv supporst all major platforms, including...
-- Youtube
-- Soundcloud
+- Youtube (videos, playlists, and livestreams)
+- Soundcloud (tracks and sets)
+- Twitch
+- Beam
+- Nico Nico
+- Radio links
+- And much more...
 
 <br>
 
