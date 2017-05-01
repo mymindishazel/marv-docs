@@ -2,7 +2,8 @@
 
 If you have any issues using Marv, hop on our the [**support server**](https://discord.gg/WmDyx7C) and we'll get back to you ASAP :)
 
-**Note:** Most command parts can be shortened to one letter<br>**Examples:**
+> **Note:** Most command parts can be shortened to one letter
+Examples:
 - `-play [search]` → `-p [search]`
 - `-play random next` → `-p r n`
 - `-next` → `-n`
