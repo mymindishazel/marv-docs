@@ -9,7 +9,7 @@ Marv supporst all major platforms, including...
 - Soundcloud (tracks and sets)
 - Twitch
 - Nico Nico
-- Radio links
+- Radios
 - And much more...
 
 <br>
