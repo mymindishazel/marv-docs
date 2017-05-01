@@ -4,16 +4,6 @@ If you have any issues using Marv, hop on our the [**support server**](https://d
 
 **Note:** Most command parts can be shortened to one letter. For example, `-play monstercat` can be shortened to `-p monstercat`
 
-Command | Description
---- | ---
-**Adding to the queue** |
-`-play [link/search term]` |  Adds the song or playlist to the queue. If the input is a search term, it will automatically choose the first result
-`-search [search term]` | Will prompt you to choose which search results you want to queue
-`-play shuffle [playlist]` | If you input a playlist, it will automatically shuffles the playlist before adding it to the queue
-`-play random` | Adds a random song to the queue
-`-play` | If the command call message has audio attachments, it will add them to the queue
-
-
 ### Adding to the queue
 
 * `-play [link/search term]` Adds the song or playlist to the queue. If the input is a search term, it will automatically choose the first result
