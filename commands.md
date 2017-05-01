@@ -6,7 +6,7 @@ If you have any issues using Marv, hop on our the [**support server**](https://d
 
 Command | Description
 --- | ---
-### Adding to the queue |
+**Adding to the queue**
 
 
 ### Adding to the queue
