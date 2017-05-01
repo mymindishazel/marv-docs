@@ -1,6 +1,6 @@
 # Commands
 
-If you have any issues using Marv, hop on our the [**support server**](https://discord.gg/WmDyx7C) and we'll get back to ASAP :)
+If you have any issues using Marv, hop on our the [**support server**](https://discord.gg/WmDyx7C) and we'll get back to you ASAP :)
 
 **Note:** Most command parts can be shortened to one letter. For example, `-play monstercat` can be shortened to `-p monstercat`
 
