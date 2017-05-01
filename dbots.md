@@ -4,7 +4,9 @@
 
 > How do I get started with Marv?
 
-Just click the button that says `Invite` up above, select your server, and press authorize! Then, click here for a list of the [**commands**](/marv/commands) you can use :D
+1) Just click the button that says `Invite` up above
+2) Select your server and press authorize
+4) [Click here for a list of the **commands** you can use :D](/marv/commands)
 
 <br>
 
