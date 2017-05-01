@@ -1,5 +1,7 @@
 # An incredibly easy to use music bot for Discord
 
+<br>
+
 > What platforms does Marv support?
 
 Marv supporst all major platforms, including...
@@ -10,8 +12,6 @@ Marv supporst all major platforms, including...
 - Nico Nico
 - Radio links
 - And much more...
-
-<br>
 
 > How do I get started with Marv?
 
