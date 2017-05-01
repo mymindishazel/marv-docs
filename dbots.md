@@ -6,7 +6,7 @@
 
 Marv supports all major platforms, including...
 - Youtube <small>(videos, playlists, livestreams)</small>
-- Soundcloud (tracks, sets)
+- Soundcloud <small>(tracks, sets)</small>
 - Twitch
 - Nico Nico
 - Radios
