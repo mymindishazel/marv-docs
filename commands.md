@@ -2,13 +2,12 @@
 
 If you have any issues using Marv, hop on our the [**support server**](https://discord.gg/WmDyx7C) and we'll get back to you ASAP :)
 
-#### Adding to the queue
-
-**Note:** Most command parts can be shortened to one letter
-Examples:
+**Note:** Most command parts can be shortened to one letter<br>**Examples:**
 - `-play [search]` **→** `-p [search]`
 - `-play random next` **→** `-p r n`
 - `-play shuffle [link]` **→** `-p s [link]`
+
+#### Adding to the queue
 
 * `-play [link/search term]` Adds the song or playlist to the queue. If the input is a search term, it will automatically choose the first result
 * `-search [search term]` Will prompt you to choose which search results you want to queue
@@ -16,8 +15,7 @@ Examples:
 * `-play random` Adds a random song to the queue
 * `-play` If the command call message has audio attachments, it will add them to the queue
 
-**Note:** Every command above can have the word `next` added before the input. This will queue the song in the position after the current track. 
-Examples:
+**Note:** Every command above can have the word `next` added before the input. This will queue the song in the position after the current track<br>Examples:
 - `-play shuffle next [playlist]`
 - `-play next [song]`
 - `-play random next`
