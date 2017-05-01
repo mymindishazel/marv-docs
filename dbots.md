@@ -1,6 +1,5 @@
 # An incredibly easy to use music bot for Discord
-
-<br>
+=====
 
 > What platforms does Marv support?
 
