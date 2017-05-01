@@ -4,15 +4,23 @@ If you have any issues using Marv, hop on our the [**support server**](https://d
 
 #### Adding to the queue
 
-**Note:** Most command parts can be shortened to one letter. For example, `-play monstercat` can be shortened to `-p monstercat`
+**Note:** Most command parts can be shortened to one letter
+Examples:
+- `-play [search]` **→** `-p [search]`
+- `-play random next` **→** `-p r n`
+- `-play shuffle [link]` **→** `-p s [link]`
 
 * `-play [link/search term]` Adds the song or playlist to the queue. If the input is a search term, it will automatically choose the first result
 * `-search [search term]` Will prompt you to choose which search results you want to queue
-* `-play shuffle [playlist]` If you input a playlist, it will automatically shuffles the playlist before adding it to the queue
+* `-play shuffle [playlist]` If you input a playlist, it will automatically shuffle the playlist before adding it to the queue
 * `-play random` Adds a random song to the queue
 * `-play` If the command call message has audio attachments, it will add them to the queue
 
-**Note:** Every command above can have the word `next` added before the input. This will queue the song in the position after the current track. For example, `-play shuffle next [playlist]`
+**Note:** Every command above can have the word `next` added before the input. This will queue the song in the position after the current track. 
+Examples:
+- `-play shuffle next [playlist]`
+- `-play next [song]`
+- `-play random next`
 
 ### Viewing info about the queue
 
@@ -50,7 +58,7 @@ If you have any issues using Marv, hop on our the [**support server**](https://d
 * `-ff` Fast forwards the song by 10 seconds
 * `-rw` Rewinds the song by 10 seconds
 
-[For more info on the fast forward and rewind commands, click here](/marv/commands/time)
+[For more info on the fast-forward and rewind commands, click here](/marv/commands/time)
 
 ### Looping
 
