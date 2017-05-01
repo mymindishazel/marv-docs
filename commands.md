@@ -2,8 +2,7 @@
 
 If you have any issues using Marv, hop on our the [**support server**](https://discord.gg/WmDyx7C) and we'll get back to you ASAP :)
 
-**Note:** Most command parts can be shortened to one letter
-<br>Examples:
+**Note:** Most command parts can be shortened to one letter. Examples:
 - `-play [search]` → `-p [search]`
 - `-play random next` → `-p r n`
 - `-next` → `-n`
@@ -17,7 +16,7 @@ If you have any issues using Marv, hop on our the [**support server**](https://d
 * `-play random` Adds a random song to the queue
 * `-play` If the command call message has audio attachments, it will add them to the queue
 
-**Note:** Every command above can have the word `next` added before the input. This will queue the song in the position after the current track<br>Examples:
+**Note:** Every command above can have the word `next` added before the input. This will queue the song in the position after the current track. Examples:
 - `-play shuffle next [playlist]`
 - `-play next [song]`
 - `-play random next`
