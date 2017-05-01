@@ -25,9 +25,3 @@ Marv supporst all major platforms, including...
 > Help! I'm having trouble using Marv!
 
 Hop on our **support server** by clicking the `Visit Website` button up above and we'll help you out c:
-
-<br>
-
-# Commands
-
-[**Click here!**](/marv/commands)
