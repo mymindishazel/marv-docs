@@ -16,9 +16,9 @@ Marv supporst all major platforms, including...
 
 > How do I get started with Marv?
 
-1) Press the button that says `Invite` up above<br>
-2) Select your server and press authorize<br>
-3) [Click here for a list of the **commands** you can use](/marv/commands)
+1. Press the button that says `Invite` up above<br>
+2. Select your server and press authorize<br>
+3. [Click here for a list of the **commands** you can use](/marv/commands)
 
 <br>
 
