@@ -8,7 +8,6 @@ Marv supporst all major platforms, including...
 - Youtube (videos, playlists, and livestreams)
 - Soundcloud (tracks and sets)
 - Twitch
-- Beam
 - Nico Nico
 - Radio links
 - And much more...
@@ -23,7 +22,7 @@ Marv supporst all major platforms, including...
 
 <br>
 
-> Help! I read the command list but I'm still having trouble!
+> Help! I'm having trouble using Marv!
 
 Hop on our **support server** by clicking the `Visit Website` button up above and we'll help you out c:
 
