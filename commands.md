@@ -3,9 +3,10 @@
 If you have any issues using Marv, hop on our the [**support server**](https://discord.gg/WmDyx7C) and we'll get back to you ASAP :)
 
 **Note:** Most command parts can be shortened to one letter<br>**Examples:**
-- `-play [search]` **→** `-p [search]`
-- `-play random next` **→** `-p r n`
-- `-play shuffle [link]` **→** `-p s [link]`
+- `-play [search]` → `-p [search]`
+- `-play random next` → `-p r n`
+- `-next` → `-n`
+- `-loop playlist` → `-l pl`
 
 #### Adding to the queue
 
