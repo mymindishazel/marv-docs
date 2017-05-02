@@ -1,6 +1,16 @@
-<link rel="shortcut icon" type="image/png" href="/favicon.png">
-
 # An incredibly easy to use music bot for [Discord](http://discordapp.com)
+
+<br>
+
+> What platforms does Marv support?
+
+Marv supports all major platforms, including...
+- Youtube <small>(videos, playlists, livestreams)</small>
+- Soundcloud <small>(tracks, sets)</small>
+- Twitch
+- Nico Nico
+- Internet radios
+- And much more...
 
 <br>
 
