@@ -22,6 +22,8 @@
 - `-play next [song]`
 - `-play random next`
 
+<br>
+
 ### Viewing info about the queue
 
 * `-queue` Shows the queue
@@ -34,6 +36,8 @@
 
 * `-lyrics` Shows lyrics for the current song
 * `-lyrics [song]` Shows lyrics for the inputted song
+
+<br>
 
 ### Controlling the queue
 
@@ -64,11 +68,15 @@
 
 * `-controls` Brings up a reaction control set
 
+<br>
+
 ### Controlling the bot
 
 * `-join` Makes the bot join your voice channel
 * `-leave` Makes the bot leave your voice channel
 * `-stop` Makes the bot stop
+
+<br>
 
 ### Controlling the song
 
@@ -78,6 +86,8 @@
 * `-rw` Rewinds the song by 10 seconds
 
 [For more info on the fast-forward and rewind commands, click here](/marv/commands/time)
+
+<br>
 
 ### Looping
 
