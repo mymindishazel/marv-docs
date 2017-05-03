@@ -27,22 +27,29 @@
 * `-queue` Shows the queue
 * `-song` Shows the current track
 * `-queuer` Shows who queued the current track
-* `-lyrics` Shows lyrics for the current song
-* `-lyrics [song]` Shows lyrics for the inputted song
 * `-link` Shows a link to the current track
 * `-time` Displays info related to the duration of the song
+
+* `-lyrics` Shows lyrics for the current song
+* `-lyrics [song]` Shows lyrics for the inputted song
 
 ### Controlling the queue
 
 * `-next/skip` Skips to the next song
 * `-back` Skips to the previous song
+* `-jump [song index/title]` Jumps to the track at the specified index/title
+
 * `-remove [song index/title]` Removes the track at the specified index/title
 * `-remove last` Removes the last song
 * `-remove current` Removes the current song
-* `-jump [song index/title]` Jumps to the track at the specified index/title
 * `-clear` Clears the queue
+
 * `-shuffle` Randomizes all the songs after the current one
 * `-move [song index/title], [index]` Moves the specified song to the specified index
+
+* `-autoplay` Enables automatic random song queueing when you run out of songs to play
+* `-autoplay disable` Turns off autoplaying random songs
+
 * `-controls` **EXPERIMENTAL** Brings up a control set
 
 ### Controlling the bot
@@ -55,6 +62,7 @@
 
 * `-pause` Pauses the song
 * `-play` Resumes the song
+
 * `-ff` Fast forwards the song by 10 seconds
 * `-rw` Rewinds the song by 10 seconds
 
