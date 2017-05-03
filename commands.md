@@ -62,7 +62,7 @@
 
 * `-pause` Pauses the song
 * `-play` Resumes the song
-
+<br>
 * `-ff` Fast forwards the song by 10 seconds
 * `-rw` Rewinds the song by 10 seconds
 
