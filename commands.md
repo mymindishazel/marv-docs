@@ -15,7 +15,7 @@
 * `-play` If the command call message has audio attachments, it will add them to the queue
 
 **Note:** You are able to queue multiple songs in the same message by putting them on seperate lines. Example:
-- `-play [song]
+`-play [song]
 [song]
 [song]`
 
