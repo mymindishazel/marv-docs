@@ -14,7 +14,7 @@
 * `-play random` Adds a random song to the queue
 * `-play` If the command call message has audio attachments, it will add them to the queue
 
-#### **Note:** You are able to queue multiple songs in the same message by putting them on seperate lines. Example:
+**Note:** You are able to queue multiple songs in the same message by putting them on seperate lines. Example:
 - -play [song]<br>[song]<br>[song]
 
 **Note:** Every command above can have the word `next` added before the input. This will queue the song in the position after the current track. Examples:
@@ -37,20 +37,30 @@
 
 ### Controlling the queue
 
+#### Changing the current song
+
 * `-next/skip` Skips to the next song
 * `-back` Skips to the previous song
 * `-jump [song index/title]` Jumps to the track at the specified index/title
+
+#### Removing songs
 
 * `-remove [song index/title]` Removes the track at the specified index/title
 * `-remove last` Removes the last song
 * `-remove current` Removes the current song
 * `-clear` Clears the queue
 
+#### Moving songs
+
 * `-shuffle` Randomizes all the songs after the current one
 * `-move [song index/title], [index]` Moves the specified song to the specified index
 
+#### Autoplay
+
 * `-autoplay` Enables automatic random song queueing when you run out of songs to play
 * `-autoplay disable` Turns off autoplaying random songs
+
+#### Other
 
 * `-controls` **EXPERIMENTAL** Brings up a control set
 
