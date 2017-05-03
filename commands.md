@@ -13,14 +13,6 @@
 
 [For more info on the queue add commands, click here](/marv/commands/add)
 
-**Note:** You are able to queue multiple songs in the same message by putting them on seperate lines. Example:
-- -play [song]<br>[song]<br>[song]
-
-**Note:** Every command above can have the word `next` added before the input. This will queue the song in the position after the current track. Examples:
-- `-play shuffle next [playlist]`
-- `-play next [song]`
-- `-play random next`
-
 <br>
 
 ### Viewing info about the queue
