@@ -1,5 +1,7 @@
 # Commands
 
+**WARNING:** DO NOT KICK/REINVITE MARV. It causes an error within the audio system that will prevent it from working at all for your server.
+
 **Note:** Most command parts can be shortened to one letter. Examples:
 - `-play [search]` → `-p [search]`
 - `-play random next` → `-p r n`
