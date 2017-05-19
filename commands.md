@@ -88,3 +88,9 @@
 * `-loop track` Loops the current track
 * `-loop queue` Loops the entire queue
 * `-loop disable` Disables looping
+
+<br>
+
+### Miscellaneous
+
+* `-suggest [suggestion]` Posts a suggestion in Marv Support where people can thumbs up and thumbs down your suggestion
