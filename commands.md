@@ -93,4 +93,4 @@
 
 ### Miscellaneous
 
-* `-suggest [suggestion]` Posts a suggestion in Marv Support where people can thumbs up and thumbs down your suggestion
+* `-suggest [suggestion]` Posts a suggestion in Marv Support where people can vote up or vote down your idea
