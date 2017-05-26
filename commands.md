@@ -73,6 +73,7 @@
 
 ### Controlling the song
 
+* `-volume [number between 1 and 100]` Allows you to change the volume
 * `-pause` Pauses the song
 * `-play` Resumes the song <br>
 * `-ff` Fast forwards the song by 10 seconds
