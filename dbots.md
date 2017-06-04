@@ -19,7 +19,7 @@ Marv supports all major platforms, including...
 
 1. Press the button that says `Invite` up above
 2. Select your server and press authorize
-3. [Click here for a list of the **commands** you can use](/marv/commands)
+3. [Click here for a list of the **commands** you can use](/marvdocs/commands)
 
 <br>
 
