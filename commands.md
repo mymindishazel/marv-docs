@@ -13,7 +13,7 @@
 * `-play [link/search term]` Adds the song or playlist to the queue. If the input is a search term, it will automatically choose the first result
 * `-search [search term]` Will prompt you to choose which search results you want to queue
 
-[For more info on the queue add commands, click here](/marv/commands/add)
+[For more info on the queue add commands, click here](/marvdocs/commands/add)
 
 <br>
 
@@ -79,7 +79,7 @@
 * `-ff` Fast forwards the song by 10 seconds
 * `-rw` Rewinds the song by 10 seconds
 
-[For more info on the fast-forward and rewind commands, click here](/marv/commands/time)
+[For more info on the fast-forward and rewind commands, click here](/marvdocs/commands/time)
 
 <br>
 
