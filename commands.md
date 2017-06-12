@@ -94,9 +94,7 @@
 
 ### Settings
 
-#### Prefix
-
-##### Server Prefix
+#### Server Prefix
 
 The prefix you set here only applies to the current server.
 
@@ -104,7 +102,7 @@ The prefix you set here only applies to the current server.
 * `-prefix` Gets the current custom prefix
 * `-prefix reset` Clears the custom prefix and reverts back to the normal one
 
-##### User Prefix
+#### User Prefix
 
 The prefix you set here only applies to you. It will be the same, regardless of which server you are on.
 
