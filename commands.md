@@ -96,7 +96,7 @@
 
 <br>
 
-### [Playlists[(/marvdocs/commands/playlists)
+### [Playlists](/marvdocs/commands/playlists)
 
 <br>
 
@@ -104,12 +104,4 @@
 
 <br>
 
-### Settings
-
-#### [Prefix](/marvdocs/commands/prefix)
-
-<br>
-
-### Miscellaneous
-
-* `-suggest [suggestion]` Posts a suggestion in Marv Support where people can vote up or vote down your idea
+#### [Prefixes](/marvdocs/commands/prefix)
