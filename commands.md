@@ -41,13 +41,16 @@
 
 <br>
 
-### Controlling the queue
-
-##### Changing the current song
+### Changing the current song
 
 * `-next/skip` Skips to the next song
 * `-back` Skips to the previous song
 * `-jump [song index/title]` Jumps to the track at the specified index/title
+
+<br>
+
+
+### Controlling the queue
 
 ##### Removing songs
 
@@ -58,8 +61,8 @@
 
 ##### Moving songs
 
-* `-shuffle` Randomizes all the songs after the current one
 * `-move [song index/title], [index]` Moves the specified song to the specified index
+* `-shuffle` Randomizes all the songs after the current one
 
 ##### Autoplay
 
@@ -92,20 +95,11 @@
 
 <br>
 
-### Playlists
-
-* `-playlist create [name]` Saves the current queue to a playlist by that name
-* `-playlist load [name]` Loads the saved playlist by that name
-* `-playlist delete [name]` Deletes the saved playlist by that name
+### [Playlists[(/marvdocs/commands/playlists)
 
 <br>
 
-### Looping
-
-* `-loop` Cycles between the three loop settings
-* `-loop track` Loops the current track
-* `-loop queue` Loops the entire queue
-* `-loop disable` Disables looping
+### [Looping](/marvdocs/commands/looping)
 
 <br>
 
