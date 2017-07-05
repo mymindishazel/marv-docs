@@ -25,7 +25,7 @@
 
 [For more info on the queue add commands, click here](/marvdocs/commands/add)
 
-<br><br>
+<br>
 
 ### Viewing info about the queue
 
