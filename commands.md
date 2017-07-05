@@ -104,4 +104,4 @@
 
 <br>
 
-#### [Prefixes](/marvdocs/commands/prefix)
+### [Prefixes](/marvdocs/commands/prefix)
