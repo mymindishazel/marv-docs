@@ -8,6 +8,16 @@
 
 <br>
 
+## Essential commands
+
+* `-play [link/search term]` Adds the song or playlist to the queue. If the input is a search term, it will automatically choose the first result
+* `-search [search term]` Will prompt you to choose which search results you want to queue
+* `-queue` Shows the queue
+* `-next/skip` Skips to the next song
+* `-stop` Makes the bot stop
+
+<br>
+
 ### Adding to the queue
 
 * `-play [link/search term]` Adds the song or playlist to the queue. If the input is a search term, it will automatically choose the first result
