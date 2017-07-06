@@ -2,6 +2,17 @@
 
 <br>
 
+> Overview
+
+- Playing from almost any site
+- Super fast loading
+- Blacklists and whitelists
+- Can play songs of any length
+- Fast forwardings, rewinding, and seeking
+- Very user friendly
+
+<br>
+
 > What platforms does Marv support?
 
 Marv supports all major platforms, including...
