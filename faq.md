@@ -8,6 +8,9 @@
 ### 1. Help! Marv drank a red bull and is playing music really quickly!
 Don't worry! All you have to do is type `-fix it` and Marv will play music at normal speed again.
 
+### 2. Umm, Marv just randomly stopped playing music just for me.
+Try disconnecting from your voice channel and reconnecting. Discord currently has a bug where you will stop receiving audio for the bot if it leaves a voice channel in a different server. 
+
 ### 2. Marv keeps pausing and playing/stuttering.
 First, try changing your server region. If that does not fix it, please contact someone in the support channel.
 
@@ -19,3 +22,6 @@ Well, that's what we've got a whitelist for! To only let a certain person use Ma
 
 ### 5. Wha?? My bot isn't responding to any of my commands! 
 Try using `@Marv` instead of `-`. If it responds, the admins of your server have set a custom prefix. 
+
+### 6. Am I able to make Marv stay in a voice channel forever?
+No. 
