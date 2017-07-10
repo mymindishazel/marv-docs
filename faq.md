@@ -1,5 +1,8 @@
 # FAQ
 
+### 0) How do I add Marv to my server?
+First off, type `-invite` in a server where Marv can see and click the link it gives you. In the drop down menu, select your server and then press authorize.
+
 ### 1) Help! Marv drank a red bull and is playing music really quickly!
 Don't worry! All you have to do is type `-fix it` and Marv will play music at normal speed again.
 
