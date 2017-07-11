@@ -11,8 +11,8 @@ Don't worry! All you have to do is type `-fix it` and Marv will play music at no
 ### 2. Umm, Marv just randomly stopped playing music just for me.
 Try disconnecting from your voice channel and reconnecting. Discord currently has a bug where you will stop receiving audio for the bot if it leaves a voice channel in a different server. 
 
-### 3. Marv keeps pausing and playing/stuttering.
-First, try changing your server region. If that does not fix it, please contact someone in the support channel.
+### 3. Marv is lagging!
+Try changing your server region! If that does not fix it, please contact someone in Marv Support.
 
 ### 4. How do I stop certain people from using Marv?
 Marv has a **blacklist** feature for this exact purpose. All you have to do is type `-blacklist @user` and they will be unable to use Marv in your server. You may also blacklist an entire role by typing `-blacklist @role`, if that's how you roll.
