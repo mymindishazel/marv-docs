@@ -1,6 +1,6 @@
 > What is a prefix?
 
-The prefix is the character before your commands. By default, it's `-`. By changing it, you will have to put the new bit before all your commands instead of `-`. For example, if you run `-prefix set !`, you now have to run all commands with `!` instead of `-`.
+The prefix is the character before your commands. If you change it, you will have to put the new bit before all your commands instead of `-`. For example, if you run `-prefix set !`, you must run all commands with `!` instead of `-`.
 
 # Server Prefix
 
