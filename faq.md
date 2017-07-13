@@ -5,8 +5,8 @@
 2. Select your server in the drop down menu
 3. Press authorize
 
-### 1. Help! Marv drank a red bull and is playing music really fast!
-Don't worry! All you have to do is type `-fix it` and Marv will play music at normal speed again.
+~~~### 1. Help! Marv drank a red bull and is playing music really fast!
+Don't worry! All you have to do is type `-fix it` and Marv will play music at normal speed again.~~~
 
 ### 2. Umm, Marv just randomly stopped playing music just for me.
 Try disconnecting from your voice channel and reconnecting. Discord currently has a bug where you will stop receiving audio for the bot if it leaves a voice channel in a different server. 
