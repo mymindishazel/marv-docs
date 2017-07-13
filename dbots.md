@@ -9,7 +9,7 @@
 - Blacklists and whitelists
 - Can play songs of any length
 - Fast forwardings, rewinding, and seeking
-- Very user friendly
+- Lyrics
 
 <br>
 
