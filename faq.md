@@ -6,7 +6,6 @@
 3. Press authorize
 
 ### 1. What sites does Marv support?
-Marv supports these sites:
 - Youtube
 - Spotify
 - Soundcloud
