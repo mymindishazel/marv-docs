@@ -28,7 +28,7 @@ Marv has a **blacklist** feature for this exact purpose. All you have to do is t
 ### 5. Wait, what if I want only certain people to be able to use Marv?
 Well, that's what we've got a whitelist for! To only let a certain person use Marv, type `-whitelist @user`. To whitelist a role, type `-whitelist @role`.
 
-### 6. Wha?? My bot isn't responding to any of my commands! 
+### 6. Wha?? Marv isn't responding to any of my commands! 
 Try using `@Marv` instead of `-`. If it responds, the admins of your server have set a custom prefix. 
 
 ### 7. Am I able to make Marv stay in a voice channel forever?
