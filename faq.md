@@ -13,7 +13,7 @@
 - Vimeo
 - Bandcamp
 - AudioTool
-- Audio attachments on Discord
+- [Audio attachments on Discord](/marvdocs/commands/localfiles)
 
 ### 2. Umm, Marv just randomly stopped playing music just for me.
 Try disconnecting from your voice channel and reconnecting. Discord currently has a bug where you will stop receiving audio for the bot if it leaves a voice channel in a different server. 
