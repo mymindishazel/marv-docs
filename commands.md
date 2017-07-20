@@ -88,10 +88,6 @@
 
 ### [Playlists](/marvdocs/commands/playlists)
 
-<br>
-
 ### [Looping](/marvdocs/commands/looping)
-
-<br>
 
 ### [Prefixes](/marvdocs/commands/prefix)
