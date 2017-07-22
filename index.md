@@ -7,7 +7,7 @@
 - Playing from almost any site
 - Super fast loading
 - Blacklists and whitelists
-- Can play songs of any length
+- Can play songs of any length <small>for free!!</small>
 - Fast forwardings, rewinding, and seeking
 - Lyrics
 
