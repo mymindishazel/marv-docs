@@ -36,4 +36,4 @@ Marv supports all major platforms, including...
 
 > Help! I'm having trouble using Marv!
 
-Hop on our **support server** by clicking the `Visit Website` button up above and we'll help you out c:
+Hop on [**Marv Support**](https://discord.gg/WmDyx7C) and we'll do our best to help you out c:
