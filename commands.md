@@ -87,7 +87,6 @@
 <br>
 
 ### [Playlists](/marvdocs/commands/playlists)
-
 ### [Looping](/marvdocs/commands/looping)
-
+### [Permissions](/marvdocs/commands/permissions)
 ### [Prefixes](/marvdocs/commands/prefix)
