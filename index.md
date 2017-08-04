@@ -8,7 +8,7 @@
 - Super fast loading
 - Blacklists and whitelists
 - Can play songs of any length <small>for free!!</small>
-- Fast forwardings, rewinding, and seeking
+- Fast forwarding, rewinding, and seeking
 - Lyrics
 
 <br>
