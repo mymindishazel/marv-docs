@@ -38,4 +38,6 @@ Marv supports all major platforms, including...
 
 Hop on [**Marv Support**](https://discord.gg/WmDyx7C) and we'll do our best to help you out c:
 
-<small>Disclaimer: Marv records feedback.</small>
+<br>
+
+<small>Disclaimer: Marv records anonymous feedback based on messages sent.</small>
