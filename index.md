@@ -1,4 +1,12 @@
-# An incredibly easy to use music bot
+# Marv is an incredibly easy to use music bot
+
+<br>
+
+> How do I get started with Marv?
+
+1. Press the button that says `Invite` up above
+2. Select your server and press authorize
+3. [Click here for a list of the **commands** you can use](/marvdocs/commands)
 
 <br>
 
@@ -15,22 +23,14 @@
 
 > What platforms does Marv support?
 
-Marv supports all major platforms, including...
 - Youtube <small>(videos, playlists, livestreams)</small>
-- Spotify <small>(tracks, albums, playlists)<small> for free!!</small></small> 
+- **Spotify** <small>(tracks, albums, playlists)<small> for free!!</small></small> 
 - Soundcloud <small>(tracks, sets)</small>
 - Twitch
-- Clyp
 - Nico Nico
+- Clyp
+- Message attachments <small>(just upload the audio file with a message of `-play`)</small>
 - And much more...
-
-<br>
-
-> How do I get started with Marv?
-
-1. Press the button that says `Invite` up above
-2. Select your server and press authorize
-3. [Click here for a list of the **commands** you can use](/marvdocs/commands)
 
 <br>
 
