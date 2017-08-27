@@ -38,7 +38,3 @@
 > Help! I'm having trouble using Marv!
 
 Hop on [**Marv Support**](https://discord.gg/WmDyx7C) and we'll do our best to help you out c:
-
-<br>
-
-<small>Disclaimer: Marv records anonymous feedback based on messages sent.</small>
