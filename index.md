@@ -4,9 +4,15 @@
 
 > How do I get started with Marv?
 
-1. Press the button that says `Invite` up above
-2. Select your server and press authorize
-3. [Click here for a list of the **commands** you can use](/commands)
+1. [Click here](https://discordapp.com/oauth2/authorize?scope=bot&client_id=234395307759108106&permissions=3263552)
+2. Select your server
+3. Press `Authorize`
+
+<br>
+
+> Commands
+
+[Click here!](/commands)
 
 <br>
 
