@@ -1,9 +1,9 @@
 
 # Time Commands
 
-## Info
+## Explanation of Timestamps
 
-These commands both take a generic timestamp. They can range from anything like `1 second` to `5h3m1milli`
+These commands both take a generic timestamp. They can range from anything like `1 second` to `1yr1hr`
 
 ## Fastforwarding & Rewinding
 
