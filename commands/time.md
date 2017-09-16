@@ -1,20 +1,23 @@
 
 # Time Commands
 
+## Info
+
+These commands both take a generic timestamp. They can range from anything like `1 second` to `5h3m1milli`
+
 ## Fastforwarding & Rewinding
 
 * `-ff/rw` Fast forwards or rewinds the song by 10 seconds
-* `-ff/rw [number of seconds]` Fast forwards or rewinds the song by the specified number of seconds
-* `-ff/rw m [number of minutes]` Fast forwards or rewinds the song by the number of specified minutes
+* `-ff/rw [timestamp]` Fast forwards or rewinds the song by the specified amount
 
 ## Seeking
 
-* `-seek [minutes], [seconds]` Goes to the specified time in the song
+* `-seek [timestamp]` Goes to the specified time in the song
 
 <br>
 
 #### Examples
 
-* `-ff 15` Fast forwards 15 seconds
-* `-rw m 2` Rewinds 2 minutes 
-* `-seek 3, 24` Goes to 3 minutes and 24 seconds in the current song
+* `-ff 15s` Fast forwards 15 seconds
+* `-rw 2 minutes` Rewinds 2 minutes 
+* `-seek 3 minutes 24 seconds` Goes to 3 minutes and 24 seconds in the current song
