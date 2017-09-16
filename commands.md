@@ -82,7 +82,7 @@
 * `-ff` Fast forwards the song by 10 seconds
 * `-rw` Rewinds the song by 10 seconds
 
-[For more info on the fast-forward and rewind commands, click here](/commands/time)
+[For more info on controlling the time of the song, click here](/commands/time)
 
 <br>
 
