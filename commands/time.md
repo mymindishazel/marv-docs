@@ -1,9 +1,13 @@
 
 # Time Commands
 
+<br> 
+
 ## Explanation of Timestamps
 
 These commands both take a generic timestamp. They can range from anything like `1 second` to `1yr1hr`
+
+<br>
 
 ## Fastforwarding & Rewinding
 
