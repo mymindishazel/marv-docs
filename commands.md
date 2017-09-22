@@ -53,7 +53,7 @@
 ##### Moving songs
 
 * `-move [song index/title], [index]` Moves the specified song to the specified index
-* `-shuffle` Randomizes all the songs after the current one
+* `-shuffle` Randomizes the queue
 
 ##### AutoPlay
 
