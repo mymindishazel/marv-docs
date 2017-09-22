@@ -58,6 +58,7 @@
 ##### AutoPlay
 
 > What is AutoPlay?
+
 AutoPlay is a cool little feature that allows Marv to automatically queue up relevant songs when the ones you have queued run out.
 
 * `-autoplay` Toggles AutoPlay
