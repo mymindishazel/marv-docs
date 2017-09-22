@@ -55,10 +55,12 @@
 * `-move [song index/title], [index]` Moves the specified song to the specified index
 * `-shuffle` Randomizes all the songs after the current one
 
-##### Autoplay
+##### AutoPlay
 
-* `-autoplay` Enables automatic random song queueing when you run out of songs to play
-* `-autoplay disable` Turns off autoplaying random songs
+> What is AutoPlay?
+AutoPlay is a cool little feature that allows Marv to automatically queue up relevant songs when the ones you have queued run out.
+
+* `-autoplay` Toggles AutoPlay
 
 ##### Experimental
 
