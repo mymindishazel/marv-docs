@@ -3,6 +3,8 @@
 ### -remove [song]
 Removes the selected song
 
+---
+
 ### -clear
 Removes all songs from the queue
 
@@ -12,6 +14,8 @@ Removes all songs from the queue
 
 ### -remove last
 Removes the last song
+
+---
 
 ### -remove current
 Removes the current song
