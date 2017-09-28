@@ -1,4 +1,4 @@
-# Simple
+# Basic
 
 ### -play [song]
 Loads the selected song and places it at the end of the queue.
