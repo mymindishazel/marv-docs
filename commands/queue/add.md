@@ -18,13 +18,3 @@ You can queue multiple songs from the search results by putting commas inbetween
 
 ### -auto play
 Automatically queues up related songs once all the queued songs have run out.
-
----
-
-### -play next [song]
-Queues the inputted song after the current one.
-
----
-
-### -play shuffle [playlist]
-Randomizes the playlist before it is added to the queue.
