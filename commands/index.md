@@ -1,5 +1,7 @@
 # Commands
 
+<br>
+
 ## Queue Commands
 
 - [Adding songs to the queue](/commands/queue/add)
