@@ -3,6 +3,8 @@
 ### -pause 
 Pauses the playback.
 
+---
+
 ### -resume
 Resumes the playback.
 
@@ -13,11 +15,17 @@ Resumes the playback.
 ### -ff
 Fast forwards the current song by 10 seconds.
 
+---
+
 ### -ff [time]
 Fast forwards the current song by the inputted amount.
 
+---
+
 ### -rw
 Rewinds the current song by 10 seconds.
+
+---
 
 ### -rw [time]
 Rewinds the current song by the inputted amount.
@@ -30,6 +38,8 @@ These commands require a **Premium** subscription to function!
 
 ### -volume
 Gets the current volume
+
+---
 
 ### -volume [number]
 Sets the volume to the input
