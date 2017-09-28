@@ -13,8 +13,12 @@
 
 ## Song
 
-- [Adding songs to the queue](/commands/queue/add)
+- [Controlling the current song](/commands/song/controls)
 
-- [Removing songs from the queue](/commands/queue/remove)
+- [Info about the current song](/commands/queue/view)
 
-- [Viewing songs in the queue](/commands/queue/view)
+## Settings
+
+- [Prefixes](/commands/settings/prefix)
+
+- [Whitelists & Blacklists](/commands/settings/permissions)
