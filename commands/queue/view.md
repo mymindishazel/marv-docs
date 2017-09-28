@@ -3,6 +3,8 @@
 ### -queue
 Displays the queue
 
+---
+
 ### -song
 Displays the current song and info about it
 
