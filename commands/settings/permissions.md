@@ -1,8 +1,8 @@
 # Whitelists
 
->Whitelists are useful for large servers.
+> Whitelists are useful for large servers.
 
-Anyone who is on the whitelist will able to use Marv -- everyone else will get an error message.
+Only the people on the whitelist will able to use Marv.
 
 ### -whitelist
 Displays which users and roles are on the whitelist
@@ -26,9 +26,9 @@ Removes all users and roles
 
 # Blacklists
 
->Blacklists are useful for smaller servers.
+> Blacklists are useful for smaller servers.
 
-Everyone will be able to use Marv except for people on the blacklist. This can help target problem users.
+The people on the blacklist will be unable to use Marv.
 
 ### -blacklist
 Displays which users and roles are on the blacklist
