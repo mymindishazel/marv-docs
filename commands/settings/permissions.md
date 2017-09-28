@@ -22,7 +22,7 @@ Removes the mentioned users and roles
 ### -whitelist clear
 Removes all users and roles
 
-<br><br>
+<br><br><br>
 
 # Blacklists
 
