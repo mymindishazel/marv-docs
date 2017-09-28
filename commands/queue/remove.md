@@ -1,18 +1,18 @@
 # Simple
 
-## -remove [song]
+### -remove [song]
 Removes the selected song
 
-## -clear
+### -clear
 Removes all songs from the queue
 
 <br>
 
 # Advanced
 
-## -remove last
+### -remove last
 Removes the last song
 
-## -remove current
+### -remove current
 Removes the current song
 
