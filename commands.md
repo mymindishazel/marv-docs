@@ -69,7 +69,7 @@ AutoPlay allows Marv to automatically queue up relevant songs when the ones you 
 
 <br>
 
-### [Controlling the bot](#abc)
+### Controlling the bot
 
 * `-join` Makes the bot join your voice channel
 * `-leave` Makes the bot leave your voice channel
