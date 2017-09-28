@@ -1,4 +1,4 @@
-# Server Prefix
+# Prefix
 
 ### -prefix
 Displays the current prefix
