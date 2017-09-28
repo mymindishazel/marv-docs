@@ -8,7 +8,7 @@ Anyone who is on the whitelist will able to use Marv -- everyone else will get a
 - `-whitelist add @user/@role` Adds a user or role to the whitelist
 - `-whitelist remove @user/@role` Removes a user or role from the whitelist
 
-<br>
+--- 
 
 # Blacklists
 
