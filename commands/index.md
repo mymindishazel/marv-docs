@@ -1,6 +1,6 @@
 # Commands
 
-## Queue
+## Queue Commands
 
 - [Adding songs to the queue](/commands/queue/add)
 
@@ -11,13 +11,13 @@
 - [Editing songs in the queue](/commands/queue/edit)
 
 
-## Song
+## Song Commands
 
 - [Controlling the current song](/commands/song/controls)
 
 - [Info about the current song](/commands/queue/view)
 
-## Settings
+## Settings Commands
 
 - [Prefix](/commands/settings/prefix)
 
