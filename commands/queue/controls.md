@@ -12,7 +12,7 @@ Plays the previous song.
 
 If you're at the beginning of the queue, it'll play the last song.
 
----
+<br>
 
 # Advanced
 
