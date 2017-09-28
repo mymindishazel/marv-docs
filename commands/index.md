@@ -19,6 +19,6 @@
 
 ## Settings
 
-- [Prefixes](/commands/settings/prefix)
+- [Prefix](/commands/settings/prefix)
 
 - [Whitelists & Blacklists](/commands/settings/permissions)
