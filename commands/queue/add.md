@@ -12,6 +12,8 @@ Loads the search results for the search term and lets you choose which ones you 
 
 You can queue multiple songs from the search results by putting commas inbetween them.
 
+<br>
+
 # Advanced
 
 ### -auto play
