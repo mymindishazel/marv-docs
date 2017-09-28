@@ -1,4 +1,4 @@
-# Simple
+# Basic
 
 ### -remove [song]
 Removes the selected song
