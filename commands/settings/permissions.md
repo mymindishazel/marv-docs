@@ -1,4 +1,7 @@
-# Whitelists
+# Permissions
+
+
+## Whitelists
 
 > Whitelists are useful for large servers.
 
@@ -24,7 +27,7 @@ Removes all users and roles
 
 <br><br><br>
 
-# Blacklists
+## Blacklists
 
 > Blacklists are useful for smaller servers.
 
