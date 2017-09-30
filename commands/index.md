@@ -4,9 +4,9 @@
 
 ## Queue Commands
 
-- [Adding songs to the queue](/commands/queue/add)
+- [Adding songs](/commands/queue/add)
 
-- [Viewing songs in the queue](/commands/queue/view)
+- [Viewing songs](/commands/queue/view)
 
 - [Controlling the queue](/commands/queue/controls)
 
