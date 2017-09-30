@@ -8,16 +8,14 @@
 
 - [Viewing songs](/commands/queue/view)
 
-- [Controlling the queue](/commands/queue/controls)
-
-- [Editing songs in the queue](/commands/queue/edit)
+- [Editing the queue](/commands/queue/edit)
 
 
 ## Song Commands
 
-- [Controlling the current song](/commands/song/controls)
+- [Controls](/commands/song/controls)
 
-- [Info about the current song](/commands/queue/view)
+- [Info](/commands/queue/view)
 
 ## Settings Commands
 
