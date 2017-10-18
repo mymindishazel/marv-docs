@@ -17,6 +17,10 @@
 
 - [Info](/commands/queue/view)
 
+## Premium
+
+- [Volume](/commands/premium/volume)
+
 ## Settings Commands
 
 - [Prefix](/commands/settings/prefix)
