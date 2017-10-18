@@ -21,6 +21,8 @@
 
 - [Volume](/commands/premium/volume)
 
+- [Playlists](/commands/premium/playlists)
+
 ## Settings Commands
 
 - [Prefix](/commands/settings/prefix)
