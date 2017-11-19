@@ -1,1 +1,1 @@
-<link rel="canonical" href="https://discordapp.com/oauth2/authorize?scope=bot&client_id=234395307759108106&permissions=3525697">
+<meta http-equiv="refresh" content="0; url=http://konradpodgorski.com/blog/2013/10/21/how-i-migrated-my-blog-from-wordpress-to-octopress/">
