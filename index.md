@@ -12,7 +12,7 @@
 
 > Commands
 
-[Click here!](/commands)
+[Click here!](/commands/)
 
 <br>
 
