@@ -185,7 +185,7 @@ a {
     color: $header-heading-color;
     text-align: center;
     background-color: $header-bg-color;
-    background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+    background-image: linear-gradient(120deg, $header-bg-color, $header-bg-color-secondary);
     margin-top: 2rem;
     margin-bottom: 2rem;
     font-weight: normal;
