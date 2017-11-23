@@ -179,18 +179,7 @@ a {
     font-weight: normal;
   }
   
-  h2{
-    border-radius: 25px;
-    padding 20px;
-    color: $header-heading-color;
-    text-align: center;
-    background-color: $header-bg-color;
-    background-image: linear-gradient(120deg, $header-bg-color, $header-bg-color-secondary);
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    font-weight: normal;
-  }
-  
+  h2,
   h3,
   h4,
   h5,
