@@ -2,9 +2,7 @@
 
 
 ## Whitelists
-
-- They are useful for large servers
-- Only the people on the whitelist will able to use Marv
+Only the people on the whitelist will able to use Marv
 
 ### -whitelist
 Displays which users and roles are on the whitelist
@@ -27,9 +25,7 @@ Removes all users and roles
 <br><br><br>
 
 ## Blacklists
-
-- They are useful for smaller servers
-- The people on the blacklist will be unable to use Marv
+The people on the blacklist will be unable to use Marv
 
 ### -blacklist
 Displays which users and roles are on the blacklist
