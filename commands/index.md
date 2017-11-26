@@ -6,9 +6,9 @@
 
 - [Adding songs](/commands/queue/add)
 
-- [Controlling the queue](/commands/queue/controls)
-
 - [Viewing songs](/commands/queue/view)
+
+- [Controlling the queue](/commands/queue/controls)
 
 - [Editing the queue](/commands/queue/edit)
 
