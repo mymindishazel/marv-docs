@@ -1,5 +1,19 @@
 # Basic
 
+### -next
+Plays the next song.
+
+If you're at the end of the queue, it'll play the first song.
+
+---
+
+### -back
+Plays the previous song.
+
+If you're at the beginning of the queue, it'll play the last song.
+
+---
+
 ### -pause 
 Pauses the playback.
 
@@ -11,6 +25,11 @@ Resumes the playback.
 <br>
 
 # Advanced
+
+### -jump [song]
+Plays the selected song.
+
+---
 
 ### -ff
 Fast forwards the current song by 10 seconds.
@@ -29,19 +48,3 @@ Rewinds the current song by 10 seconds.
 
 ### -rw [time]
 Rewinds the current song by the inputted amount.
-
-<br><br>
-
-# Premium
-
-These commands require a **Premium** subscription to function!
-
-### -volume
-Gets the current volume
-
----
-
-### -volume [number]
-Sets the volume to the input
-
-Minimum volume is 10 and maximum is 100.
