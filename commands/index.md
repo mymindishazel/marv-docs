@@ -10,12 +10,15 @@
 
 - [Editing the queue](/commands/queue/edit)
 
-
 ## Song Commands
 
 - [Controls](/commands/song/controls)
 
 - [Info](/commands/queue/view)
+
+## Misc
+
+- [Looping](/commands/misc/looping)
 
 ## Premium
 
