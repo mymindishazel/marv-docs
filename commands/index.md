@@ -1,8 +1,8 @@
-## Commands
+# Commands
 
 <br>
 
-# Queue Commands
+## Queue
 
 - [Adding songs](/commands/queue/add)
 
@@ -12,23 +12,23 @@
 
 - [Editing the queue](/commands/queue/edit)
 
-# Song Commands
+## Song
 
 - [Controls](/commands/song/controls)
 
 - [Info](/commands/queue/view)
 
-# Misc Commands
+## Misc
 
 - [Looping](/commands/misc/looping)
 
-# Premium Commands
+## Premium
 
 - [Volume](/commands/premium/volume)
 
 - [Playlists](/commands/premium/playlists)
 
-# Settings Commands
+## Settings
 
 - [Prefix](/commands/settings/prefix)
 
