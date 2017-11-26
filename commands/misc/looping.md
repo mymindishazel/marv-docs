@@ -1,4 +1,4 @@
-# Looping
+# Basic
 
 ### -loop 
 Cycles through the different loop options
