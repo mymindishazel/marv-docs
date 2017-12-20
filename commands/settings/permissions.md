@@ -9,12 +9,12 @@ Displays which users and roles are on the whitelist
 
 ---
 
-### -whitelist add [user tag / role tag]
+### -whitelist add [@user / @role]
 Adds the mentioned users and roles
 
 ---
 
-### -whitelist remove [user tag / role tag]
+### -whitelist remove [@user / @role]
 Removes the mentioned users and roles
 
 ---
@@ -32,12 +32,12 @@ Displays which users and roles are on the blacklist
 
 ---
 
-### -blacklist add [user tag / role tag]
+### -blacklist add [@user / @role]
 Adds the mentioned users and roles
 
 ---
 
-### -blacklist remove [user tag / role tag]
+### -blacklist remove [@user / @tag]
 Removes the mentioned users and roles
 
 ---
