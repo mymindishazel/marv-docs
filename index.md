@@ -32,7 +32,7 @@
 - Youtube <small>(videos, playlists, livestreams)</small>
 - **Spotify** <small>(tracks, albums, playlists)<small> for free!!</small></small> 
 - Soundcloud <small>(tracks, sets)</small>
-- Twitch
+- Twitch streams
 - Nico Nico
 - Clyp
 - ~~Pornhub~~
