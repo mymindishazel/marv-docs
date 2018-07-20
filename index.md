@@ -16,12 +16,12 @@
 
 <br>
 
-## Overview
+## Features
 
-- Playing from almost any site
+- Playing from almost any site 
 - Super fast loading
 - Blacklists and whitelists
-- Can play songs of any length <small>for free!!</small>
+- Can play songs of any length <small>for free!</small>
 - Fast forwarding, rewinding, and seeking
 - Lyrics
 
