@@ -15,6 +15,12 @@ Displays the current server prefix
 ### -prefix set [new prefix]
 Changes the server prefix
 
+---
+
+### -prefix reset
+Clears the custom prefix and reverts back to the normal one
+
+
 <br>
 
 # User Prefix
@@ -27,3 +33,8 @@ Displays the current user prefix
 
 ### -user prefix set [new prefix]
 Changes the user prefix
+
+---
+
+### -user prefix reset
+Clears the custom prefix and reverts back to the normal one
