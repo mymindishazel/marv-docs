@@ -12,16 +12,16 @@
 
 ## Commands
 
-[Click here!](/commands/)
+[Click here!](./commands/)
 
 <br>
 
-## Overview
+## Features
 
-- Playing from almost any site
+- Playing from almost any site 
 - Super fast loading
 - Blacklists and whitelists
-- Can play songs of any length <small>for free!!</small>
+- Can play songs of any length <small>for free!</small>
 - Fast forwarding, rewinding, and seeking
 - Lyrics
 
@@ -30,7 +30,7 @@
 ## What platforms does Marv support?
 
 - Youtube <small>(videos, playlists, livestreams)</small>
-- **Spotify** <small>(tracks, albums, playlists)<small> for free!!</small></small> 
+- [**Spotify**](./spotify) <small>(tracks, albums, playlists)<small> for free!!</small></small> 
 - Soundcloud <small>(tracks, sets)</small>
 - Twitch streams
 - Nico Nico

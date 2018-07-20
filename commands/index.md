@@ -4,32 +4,32 @@
 
 ## Queue
 
-- [Adding songs](/commands/queue/add)
+- [Adding songs](./queue/add)
 
-- [Viewing songs](/commands/queue/view)
+- [Viewing songs](./queue/view)
 
-- [Controlling the queue](/commands/queue/controls)
+- [Controlling the queue](./queue/controls)
 
-- [Editing the queue](/commands/queue/edit)
+- [Editing the queue](./queue/edit)
 
 ## Song
 
-- [Controls](/commands/song/controls)
+- [Controls](./song/controls)
 
-- [Info](/commands/queue/view)
+- [Info](./queue/view)
 
 ## Misc
 
-- [Looping](/commands/misc/looping)
+- [Looping](./misc/looping)
 
 ## Premium
 
-- [Volume](/commands/premium/volume)
+- [Volume](./premium/volume)
 
-- [Playlists](/commands/premium/playlists)
+- [Playlists](./premium/playlists)
 
 ## Settings
 
-- [Prefix](/commands/settings/prefix)
+- [Prefix](./settings/prefix)
 
-- [Whitelists & Blacklists](/commands/settings/permissions)
+- [Whitelists & Blacklists](./settings/permissions)

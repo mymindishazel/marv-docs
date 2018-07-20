@@ -5,6 +5,11 @@ Loads the selected song and places it at the end of the queue.
 
 If you input a search term, it will automatically select the first song.
 
+How to queue a local file on Marv:
+1. Upload the file to Discord
+2. In the comment section, put `-play`
+3. Click upload
+
 ---
 
 ### -search [search term]
@@ -18,3 +23,13 @@ You can queue multiple songs from the search results by putting commas inbetween
 
 ### -auto play
 Automatically queues up related songs once all the queued songs have run out.
+
+---
+
+### -play shuffle [playlist]
+If you input a playlist, it will automatically shuffle the playlist before adding it to the queue
+
+---
+
+### -play next [song]
+This will queue the song in the position after the current track.

@@ -17,7 +17,7 @@
 - Audio attachments on Discord
 
 ### 2. How the heck do I play Spotify things?
-Type `-spotify` and Marv will give you a little window explaining it.
+Type `-spotify` and Marv will give you a little window explaining it or head over to the [spotify section](./spotify).
 
 ### 3. Marv is lagging!
 Try changing your server region! If that does not fix it, please contact someone in Marv Support.
