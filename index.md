@@ -30,7 +30,7 @@
 ## What platforms does Marv support?
 
 - Youtube <small>(videos, playlists, livestreams)</small>
-- **Spotify** <small>(tracks, albums, playlists)<small> for free!!</small></small> 
+- [**Spotify**](/spotify/) <small>(tracks, albums, playlists)<small> for free!!</small></small> 
 - Soundcloud <small>(tracks, sets)</small>
 - Twitch streams
 - Nico Nico
