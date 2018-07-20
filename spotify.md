@@ -45,4 +45,4 @@ Marv fetches the metadata of the track (title, artist, ...) and searches for an 
 Meaning, if you get the `An equivalent video on YouTube was unable to be found!`-error, you now know why.
 
 
-### Ok, cool, now bring me [to the commands](/commands/)
+### Ok, cool, now bring me [to the commands](./commands/)
