@@ -2,7 +2,7 @@
 
 ### 0. How do I add Marv to my server?
 1. [Click this link](https://discordapp.com/oauth2/authorize?scope=bot&client_id=234395307759108106&permissions=3263552)
-2. Select your server in the drop down menu
+2. Select your server in the drop down menu (If you don't see it, you're signed into the wrong account in your browser)
 3. Press authorize
 
 ### 1. What sites does Marv support?
