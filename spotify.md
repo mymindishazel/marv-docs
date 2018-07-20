@@ -6,16 +6,16 @@
 
 Open your playlist in Spotify and hit "more" (three dots).
 
-![Step one](https://github.com/nekiono/marv-docs/blob/master/assets/img/spotify-step-1.png){:class="img-responsive"}
+![Step one](https://raw.githubusercontent.com/nekiono/marv-docs/master/assets/img/spotify-step-1.png){:class="img-responsive"}
 
 In the pop-up menu, find "share".
-![Step two](https://github.com/nekiono/marv-docs/blob/master/assets/img/spotify-step-2.png){:class="img-responsive"}
+![Step two](https://raw.githubusercontent.com/nekiono/marv-docs/master/assets/img/spotify-step-2.png){:class="img-responsive"}
 
 ### Step 2
 
 Select "Copy Playlist Link".
 
-![Step three](https://github.com/nekiono/marv-docs/blob/master/assets/img/spotify-step-3.png){:class="img-responsive"}
+![Step three](https://raw.githubusercontent.com/nekiono/marv-docs/master/assets/img/spotify-step-3.png){:class="img-responsive"}
 
 The link to your playlist will be placed in your clipboard.
 
