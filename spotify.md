@@ -40,7 +40,7 @@ If you have troubles using the Spotify integration, feel free to hop on [**Marv 
 
 ## How does the Spotify integration work?
 
-Marv fetches the metadata óf the track (title, artist, ...) and searches for an equivalent song on YouTube.
+Marv fetches the metadata of the track (title, artist, ...) and searches for an equivalent song on YouTube.
 
 Meaning, if you get the `An equivalent video on YouTube was unable to be found!`-error, you now know why.
 
