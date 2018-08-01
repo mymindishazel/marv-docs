@@ -35,7 +35,6 @@
 - Twitch streams
 - Nico Nico
 - Clyp
-- ~~Pornhub~~
 - Message attachments <small>(just upload the audio file with a message of `-play`)</small>
 - And much more...
 
