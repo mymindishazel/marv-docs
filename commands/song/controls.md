@@ -32,7 +32,7 @@ Plays the selected song.
 ---
 
 ### -seek [time]
-Seeks to the specified time
+Seeks to the specified time.
 
 ---
 
