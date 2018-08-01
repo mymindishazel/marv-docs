@@ -31,6 +31,11 @@ Plays the selected song.
 
 ---
 
+### -seek [time]
+Seeks to the specified time
+
+---
+
 ### -ff
 Fast forwards the current song by 10 seconds.
 
