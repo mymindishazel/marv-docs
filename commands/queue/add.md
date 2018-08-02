@@ -33,3 +33,5 @@ If you input a playlist, it will automatically shuffle the playlist before addin
 
 ### -play next [song]
 This will queue the song in the position after the current track.
+
+> You can combine both of these tricks. Meaning, `-play next shuffle`.
