@@ -33,4 +33,4 @@ Try using `@Marv` instead of `-`. If it responds, the admins of your server have
 
 ### 7. I purchased premium, but it doesn't seem to work!?
 To use premium commands, you need to join the [marv.land Discord Server](https://discord.gg/WmDyx7C) to have the premium-role assigned to you by the Patreon integration.
-If you joined it, got your role and still have issues, have a look at [this page](./why-premium-only-works-sometimes)
+If you joined it, got your role and still have issues, have a look at [this page](./why-premium-only-works-sometimes).
