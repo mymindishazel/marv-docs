@@ -45,3 +45,7 @@
 Hop on [**Marv Support**](https://discord.gg/WmDyx7C) and we'll do our best to help you out c:
 
 [![Discord Bots](https://discordbots.org/api/widget/234395307759108106.png)](https://discordbots.org/bot/234395307759108106?utm_source=widget)
+
+<br>
+
+[Free $10 DigitalOcean Credit](https://m.do.co/c/ea53263d976d)
