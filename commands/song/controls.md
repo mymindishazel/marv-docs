@@ -53,3 +53,8 @@ Rewinds the current song by 10 seconds.
 
 ### -rw [time]
 Rewinds the current song by the inputted amount.
+
+---
+
+### -controls
+Adds reactions to the message to control the queue more quickly.
